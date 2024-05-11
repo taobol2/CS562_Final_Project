@@ -2,7 +2,7 @@
 
 Taobo Liao, Taoran Li, Qiwei He
 
-##Abstract   
+## Abstract   
  In the evolving domain of machine learning, ensuring the privacy and integrity of
  training data across multi-party computations (MPC) is paramount. Our project
  focuses on addressing the vulnerabilities of the existing MPC frameworks, particu
